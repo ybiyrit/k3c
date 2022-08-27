@@ -55,13 +55,12 @@ require (
 	github.com/docker/docker v1.4.2-0.20190319215453-e7b5f7dbe98c
 	github.com/docker/go-metrics v0.0.1 // indirect
 	github.com/docker/go-units v0.4.0
-	github.com/gogo/protobuf v1.3.1
+	github.com/gogo/protobuf v1.3.2
 	github.com/golang/protobuf v1.3.5
 	github.com/google/uuid v1.1.1
 	github.com/huandu/xstrings v1.2.1 // indirect
 	github.com/mitchellh/copystructure v1.0.0 // indirect
 	github.com/moby/buildkit v0.0.0
-	github.com/naoina/toml v0.1.1
 	github.com/opencontainers/image-spec v1.0.1
 	github.com/opencontainers/runc v1.0.0-rc9.0.20200221051241-688cf6d43cc4 // indirect
 	github.com/opencontainers/runtime-spec v1.0.2-0.20200307132014-f49fed0d6290 // indirect
@@ -73,9 +72,7 @@ require (
 	github.com/tchap/go-patricia v2.3.0+incompatible // indirect
 	github.com/urfave/cli v1.22.2
 	github.com/urfave/cli/v2 v2.1.1
-	golang.org/x/net v0.0.0-20200301022130-244492dfa37a // indirect
-	golang.org/x/sync v0.0.0-20190911185100-cd5d95a43a6e
-	golang.org/x/sys v0.0.0-20200302150141-5c8b2ff67527 // indirect
+	golang.org/x/sync v0.0.0-20201020160332-67f06af15bc9
 	google.golang.org/grpc v1.27.1
 	gotest.tools/v3 v3.0.2 // indirect
 	k8s.io/api v0.17.4
