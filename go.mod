@@ -61,8 +61,7 @@ require (
 	github.com/huandu/xstrings v1.2.1 // indirect
 	github.com/mitchellh/copystructure v1.0.0 // indirect
 	github.com/moby/buildkit v0.0.0
-	github.com/naoina/toml v0.1.1
-	github.com/opencontainers/image-spec v1.0.1
+	github.com/opencontainers/image-spec v1.0.2
 	github.com/opencontainers/runc v1.0.0-rc9.0.20200221051241-688cf6d43cc4 // indirect
 	github.com/opencontainers/runtime-spec v1.0.2-0.20200307132014-f49fed0d6290 // indirect
 	github.com/pborman/uuid v1.2.0
