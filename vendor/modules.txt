@@ -202,7 +202,7 @@ github.com/containernetworking/plugins/pkg/ns
 # github.com/coreos/go-systemd v0.0.0-20190620071333-e64a0ec8b42a
 github.com/coreos/go-systemd/daemon
 github.com/coreos/go-systemd/dbus
-# github.com/cpuguy83/go-md2man/v2 v2.0.0-20190314233015-f79a8a8ca69d
+# github.com/cpuguy83/go-md2man/v2 v2.0.0
 github.com/cpuguy83/go-md2man/v2/md2man
 # github.com/davecgh/go-spew v1.1.1
 github.com/davecgh/go-spew/spew
@@ -462,7 +462,7 @@ github.com/prometheus/procfs/internal/fs
 # github.com/rancher/norman/v2 v2.0.0-20200111044641-76fd7a67396a
 github.com/rancher/norman/v2/pkg/debug
 github.com/rancher/norman/v2/pkg/types/convert
-# github.com/rancher/wrangler v0.5.0
+# github.com/rancher/wrangler v0.7.5
 github.com/rancher/wrangler/pkg/kv
 # github.com/russross/blackfriday/v2 v2.0.1
 github.com/russross/blackfriday/v2
@@ -589,11 +589,11 @@ google.golang.org/grpc/status
 google.golang.org/grpc/tap
 # gopkg.in/inf.v0 v0.9.1
 gopkg.in/inf.v0
-# gopkg.in/yaml.v2 v2.2.8
+# gopkg.in/yaml.v2 v2.3.0
 gopkg.in/yaml.v2
-# k8s.io/api v0.17.4 => github.com/rancher/kubernetes/staging/src/k8s.io/api v1.17.4-k3s1
+# k8s.io/api v0.18.8 => github.com/rancher/kubernetes/staging/src/k8s.io/api v1.17.4-k3s1
 k8s.io/api/core/v1
-# k8s.io/apimachinery v0.17.4 => github.com/rancher/kubernetes/staging/src/k8s.io/apimachinery v1.17.4-k3s1
+# k8s.io/apimachinery v0.18.8 => github.com/rancher/kubernetes/staging/src/k8s.io/apimachinery v1.17.4-k3s1
 k8s.io/apimachinery/pkg/api/errors
 k8s.io/apimachinery/pkg/api/resource
 k8s.io/apimachinery/pkg/apis/meta/internalversion
@@ -636,7 +636,7 @@ k8s.io/apimachinery/third_party/forked/golang/reflect
 # k8s.io/apiserver v0.0.0 => github.com/rancher/kubernetes/staging/src/k8s.io/apiserver v1.17.4-k3s1
 k8s.io/apiserver/pkg/server/httplog
 k8s.io/apiserver/pkg/util/wsstream
-# k8s.io/client-go v0.17.4 => github.com/rancher/kubernetes/staging/src/k8s.io/client-go v1.17.4-k3s1
+# k8s.io/client-go v0.18.8 => github.com/rancher/kubernetes/staging/src/k8s.io/client-go v1.17.4-k3s1
 k8s.io/client-go/pkg/apis/clientauthentication
 k8s.io/client-go/pkg/apis/clientauthentication/v1alpha1
 k8s.io/client-go/pkg/apis/clientauthentication/v1beta1
@@ -674,5 +674,5 @@ k8s.io/kubernetes/pkg/util/tail
 # k8s.io/utils v0.0.0-20191114184206-e782cd3c129f
 k8s.io/utils/exec
 k8s.io/utils/integer
-# sigs.k8s.io/yaml v1.1.0
+# sigs.k8s.io/yaml v1.2.0
 sigs.k8s.io/yaml

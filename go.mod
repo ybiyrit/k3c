@@ -61,14 +61,13 @@ require (
 	github.com/huandu/xstrings v1.2.1 // indirect
 	github.com/mitchellh/copystructure v1.0.0 // indirect
 	github.com/moby/buildkit v0.0.0
-	github.com/naoina/toml v0.1.1
 	github.com/opencontainers/image-spec v1.0.1
 	github.com/opencontainers/runc v1.0.0-rc9.0.20200221051241-688cf6d43cc4 // indirect
 	github.com/opencontainers/runtime-spec v1.0.2-0.20200307132014-f49fed0d6290 // indirect
 	github.com/pborman/uuid v1.2.0
 	github.com/pkg/errors v0.9.1
 	github.com/rancher/norman/v2 v2.0.0-20200111044641-76fd7a67396a
-	github.com/rancher/wrangler v0.5.0
+	github.com/rancher/wrangler v0.7.5
 	github.com/sirupsen/logrus v1.4.2
 	github.com/tchap/go-patricia v2.3.0+incompatible // indirect
 	github.com/urfave/cli v1.22.2
@@ -78,12 +77,12 @@ require (
 	golang.org/x/sys v0.0.0-20200302150141-5c8b2ff67527 // indirect
 	google.golang.org/grpc v1.27.1
 	gotest.tools/v3 v3.0.2 // indirect
-	k8s.io/api v0.17.4
-	k8s.io/apimachinery v0.17.4
-	k8s.io/client-go v0.17.4
+	k8s.io/api v0.18.8
+	k8s.io/apimachinery v0.18.8
+	k8s.io/client-go v0.18.8
 	k8s.io/cri-api v0.17.4
 	k8s.io/klog v1.0.0
 	k8s.io/kubectl v0.17.4
 	k8s.io/kubernetes v1.17.4
-	sigs.k8s.io/yaml v1.1.0
+	sigs.k8s.io/yaml v1.2.0
 )
