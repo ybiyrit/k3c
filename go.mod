@@ -38,7 +38,7 @@ replace (
 
 require (
 	github.com/BurntSushi/toml v0.3.1
-	github.com/Masterminds/goutils v1.1.0 // indirect
+	github.com/Masterminds/goutils v1.1.1 // indirect
 	github.com/Masterminds/semver v1.5.0 // indirect
 	github.com/Masterminds/sprig v2.22.0+incompatible
 	github.com/containerd/aufs v0.0.0-20190114185352-f894a800659b
@@ -61,7 +61,6 @@ require (
 	github.com/huandu/xstrings v1.2.1 // indirect
 	github.com/mitchellh/copystructure v1.0.0 // indirect
 	github.com/moby/buildkit v0.0.0
-	github.com/naoina/toml v0.1.1
 	github.com/opencontainers/image-spec v1.0.1
 	github.com/opencontainers/runc v1.0.0-rc9.0.20200221051241-688cf6d43cc4 // indirect
 	github.com/opencontainers/runtime-spec v1.0.2-0.20200307132014-f49fed0d6290 // indirect
